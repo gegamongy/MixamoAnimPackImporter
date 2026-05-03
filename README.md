@@ -13,3 +13,4 @@ Instead do this:
 6. Run the script and all the animations in that folder will be imported into your scene, and can be used immediately by your main armature with no extra armatures in the scene.
 
 For a video tutorial, see here:
+https://youtu.be/ub4Wpn1d3mY?si=oZ_-EVDgipoHnKiy
